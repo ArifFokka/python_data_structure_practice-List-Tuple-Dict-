@@ -57,4 +57,4 @@ dict= {1: 60, 2: 20, 3: 30, 4: 40, 5: 50}
 for x in dict.items():
     print(x)
 
-# end problem solve 
+# end problem solve
